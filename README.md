@@ -1,0 +1,7 @@
+# Sistema de Ayuda Universitaria
+
+Este proyecto consiste en el desarrollo de un sistema de gestión y administración de tickets de soporte técnico dentro de un entorno académico. Su principal objetivo es mejorar la organización y seguimiento de incidencias reportadas por estudiantes, docentes y personal administrativo, permitiendo registrar solicitudes, asignar prioridades y administrar el flujo de atención de manera más eficiente y ordenada.
+
+El sistema será desarrollado en C++ utilizando estructuras de datos dinámicas lineales implementadas desde cero, específicamente listas enlazadas, colas y pilas. Estas estructuras permitirán gestionar correctamente el registro de tickets, la atención de solicitudes según prioridad y el almacenamiento del historial de incidencias atendidas. Asimismo, el sistema contará con funcionalidades como registro, búsqueda, eliminación y visualización de tickets, además de una interfaz interactiva por consola y persistencia de datos mediante archivos.
+
+A través de este proyecto se busca desarrollar una solución práctica orientada a la gestión de soporte técnico, demonstrating cómo las estructuras de datos pueden aplicarse en la resolución de problemas relacionados con la administración y organización de información dentro de un entorno universitario.
